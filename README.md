@@ -5,7 +5,7 @@
 > 
 > **RU:** Единственным официальным местом для скачивания MIDI To QWERTY является этот GitHub-репозиторий. Любые другие сайты, предлагающие загрузку программы, не принадлежат нам и могут содержать вредоносное ПО.
 # MIDI-To-Qwerty
-EN ///
+# **EN** ///
 Easy Powerful Program, That Converts MIDI To QWERTY.
 Possibilities:
 Easy UI That Can Understand Any People!
@@ -22,7 +22,9 @@ DISCLAIMER:
 This software is provided "as is" without any warranty. The author assumes no liability for any consequences of using this program or its modified versions. If you use third-party builds (forks) of this project, you are solely responsible for the security of your device. The author guarantees the functionality of only the official version published in this repository.
 LICENSE
 This Project distributed under the MIT license, you can free use, change and spreads the code, subject to compliance with the terms of the license.
-RU /// 
+
+# **RU** /// 
+
 Простая и мощная программа, которая преобразует MIDI в QWERTY.
 Возможности:
 Простой пользовательский интерфейс, понятный любому!

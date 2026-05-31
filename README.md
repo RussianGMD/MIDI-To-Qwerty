@@ -1,3 +1,9 @@
+> [!CAUTION]
+> **Caution / Внимание**
+> 
+> **EN:** The only official place to download ZenMIDI is this GitHub repository. Any other websites offering downloads or claiming to be us are not owned by us and may be unsafe.
+> 
+> **RU:** Единственным официальным местом для скачивания ZenMIDI является этот GitHub-репозиторий. Любые другие сайты, предлагающие загрузку программы, не принадлежат нам и могут содержать вредоносное ПО.
 # MIDI-To-Qwerty
 EN ///
 Easy Powerful Program, That Converts MIDI To QWERTY.
